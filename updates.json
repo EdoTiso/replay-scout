@@ -6,6 +6,11 @@
           "version": "0.1.0",
           "update_link": "https://github.com/EdoTiso/replay-scout/releases/download/v0.1.0/replay-scout-0.1.0.xpi",
           "update_hash": "sha256:1f209de10e5f986e96d286a9154cec6d9838d2ba69d3b93ec04e66bed0518b34"
+        },
+        {
+          "version": "0.1.1",
+          "update_link": "https://github.com/EdoTiso/replay-scout/releases/download/v0.1.1/replay-scout-0.1.1.xpi",
+          "update_hash": "sha256:c4f92c4fc2d214609692d831752ee02b2556a552c69911f3fb3ca7b505d86846"
         }
       ]
     }
