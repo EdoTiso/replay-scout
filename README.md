@@ -5,7 +5,8 @@ Made for tournament scouting. Not affiliated with Duelingbook.
 
 ## Install
 
-- **Chrome, Brave, Edge**: coming soon (waiting for the Chrome Web Store review).
+- **Chrome, Brave**: open the [Chrome Web Store page](https://chromewebstore.google.com/detail/replay-scout/bfpkapibhhijiomeelbomnkfiggoklnl) and click **Add to Chrome**.
+- **Edge**: open the same link; the first time Edge asks to allow extensions from other stores: allow it, then **Get**.
 - **Firefox**: open the latest `.xpi` from [Releases](https://github.com/EdoTiso/replay-scout/releases/latest) **in Firefox** and click **Add**.
   If you downloaded it with another browser, drag the file into a Firefox window.
 
