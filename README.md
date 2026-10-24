@@ -21,9 +21,4 @@ Then pin the icon: click the puzzle piece in the toolbar and the pin next to Rep
 3. Press **Rebuild**. If a Cloudflare checkbox appears on the page, click it.
 4. Pick the player, then **Copy image** / **Copy summary** (results and RPS as text, shown at the bottom of the panel) and paste into Discord, or **Download**.
 
-## Limits
-
-- Desktop only: no phones, no Safari.
-- Card counts are what the replays show: a lower bound of the real list.
-
 [Privacy policy](PRIVACY.md)
